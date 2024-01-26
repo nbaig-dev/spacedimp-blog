@@ -19,3 +19,4 @@ path = "src/main.rs"
 [[bin]]
 name = "markd"
 path = "src/bin/markd.rs"
+
